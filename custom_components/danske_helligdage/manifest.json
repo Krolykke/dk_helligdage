@@ -1,0 +1,10 @@
+{
+  "domain": "danske_helligdage",
+  "name": "Danske Helligdage",
+  "version": "1.0",
+ "requirements": [],
+ "dependencies": [],
+ "documentation": [],
+ "issue_tracker": "https://github.com/Krolykke/dk_helligdage/issues",
+ "codeowners": ["@Krolykke"]
+}
