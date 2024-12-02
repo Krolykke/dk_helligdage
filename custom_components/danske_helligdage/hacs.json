@@ -1,0 +1,7 @@
+{
+  "name": "Danske Helligdage",
+  "content_in_root": false,
+  "domains": ["danske_helligdage"],
+  "country": "dk",
+  "homeassistant": "2023.0.0"
+}
