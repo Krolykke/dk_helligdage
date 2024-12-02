@@ -2,9 +2,11 @@
   "domain": "danske_helligdage",
   "name": "Danske Helligdage",
   "version": "1.0",
- "requirements": [],
- "dependencies": [],
- "documentation": [],
- "issue_tracker": "https://github.com/Krolykke/dk_helligdage/issues",
- "codeowners": ["@Krolykke"]
+  "requirements": [],
+  "dependencies": [],
+  "documentation": "https://github.com/Krolykke/dk_helligdage#readme",
+  "issue_tracker": "https://github.com/Krolykke/dk_helligdage/issues",
+  "codeowners": ["@Krolykke"],
+  "iot_class": "local_polling",
+  "integration_type": "service"
 }
