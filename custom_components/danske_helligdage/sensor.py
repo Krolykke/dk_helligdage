@@ -38,6 +38,7 @@ def beregn_helligdage(aar):
     helligdage["dkh_kristi_himmelfartsdag"] = paaskedag + datetime.timedelta(days=39)
     helligdage["dkh_pinsedag"] = paaskedag + datetime.timedelta(days=49)
     helligdage["dkh_anden_pinsedag"] = paaskedag + datetime.timedelta(days=50)
+    helligdage["dkh_fastelavnssoendag"] = paaskedag - datetime.timedelta(days=49)
 
     juleaften = datetime.date(aar, 12, 24)
     foerste_advent = juleaften - datetime.timedelta(days=juleaften.weekday() + 22)
